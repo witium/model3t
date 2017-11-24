@@ -1,0 +1,9 @@
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\Compute.exe.config
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\Compute.exe
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\Compute.pdb
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\obj\Debug\Compute.exe
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\obj\Debug\Compute.pdb
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\gdalconst_csharp.dll
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\gdal_csharp.dll
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\ogr_csharp.dll
+C:\Users\gui\Documents\Visual Studio 2015\Projects\3t\model3t\Compute\Compute\bin\Debug\osr_csharp.dll
